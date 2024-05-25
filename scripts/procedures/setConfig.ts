@@ -341,6 +341,7 @@ ${enableCLNRestPlugin}
 ${enableClbossPlugin}
 ${enableWatchtowerClientPlugin}
 ${enableSplicing}
+disable-mpp=true
 
 autoclean-cycle=${config.autoclean["autoclean-cycle"]}
 autoclean-succeededforwards-age=${config.autoclean["autoclean-succeededforwards-age"]}
